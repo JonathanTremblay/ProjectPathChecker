@@ -1,5 +1,5 @@
 {
-    "name": "ca.tim-cstj.project-path-checker",
+    "name": "ProjectPathChecker",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [
